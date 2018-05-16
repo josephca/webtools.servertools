@@ -1,12 +1,5 @@
 <extensionDetails>
 	<feature
-		uri="http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/updates/bluemixAdapter/oxygen/"
-		id="com.ibm.cftools.wtp.serveradapter.feature.feature.group"
-		name="IBM Cloud Tools Server Adapter"
-		description="Cloud Tools for IBM Cloud" provider="IBM"
-		version="1.0.0.v20150801_1001" serverId="com.ibm.cftools.server"
-		runtime-vendor="IBM" runtimeId="com.ibm.cftools.runtime" />
-	<feature
 		uri="http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/updates/libertyAdapter/photon/"
 		id="com.ibm.ws.st.tools.base.feature.group"
 		name="WebSphere Application Server Liberty Server Adapter"
