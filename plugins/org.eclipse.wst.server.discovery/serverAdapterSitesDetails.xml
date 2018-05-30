@@ -2,9 +2,9 @@
 	<feature
 		uri="http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/updates/libertyAdapter/photon/"
 		id="com.ibm.ws.st.tools.base.feature.group"
-		name="WebSphere Application Server Liberty Server Adapter"
-		description="Tools for developing and administering WebSphere Application Server Liberty Server Adapter"
-		provider="IBM" version="1.0.400.v20150617_2241"
+		name="WebSphere® Application Server Liberty Server Adapter"
+		description="Tools for developing and administering WebSphere Application Server Liberty Server"
+		provider="IBM" version="1.0.554.v20180313_0201"
 		serverId="com.ibm.ws.st.server.wlp" runtime-vendor="IBM"
 		runtimeId="com.ibm.ws.st.runtime.wlp">
 	</feature>
